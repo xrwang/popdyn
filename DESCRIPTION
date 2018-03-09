@@ -1,0 +1,11 @@
+Package: popdyn
+Type: Package
+Title: Population Dynamics
+Version: 0.1.0
+Author: person("xiaowei", "wang", role=c("aut"), email="xrw@berkeley.edu")
+Maintainer: Xiaowei Wang <xrw@berkeley.edu>
+Description: example for ds421
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
